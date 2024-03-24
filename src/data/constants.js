@@ -255,7 +255,7 @@ export const projects = [
     description:
       "created a School ERP system facilitating streamlined school payments and empowering parents to assign new services to their children effortlessly. This project enhanced communication between schools and parents while optimizing administrative processes, fostering a more efficient educational environment.",
     image:
-      "https://private-user-images.githubusercontent.com/128589859/316256061-d1228114-db58-4bc4-a8c8-bf00c3fbf015.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyMTc2NjksIm5iZiI6MTcxMTIxNzM2OSwicGF0aCI6Ii8xMjg1ODk4NTkvMzE2MjU2MDYxLWQxMjI4MTE0LWRiNTgtNGJjNC1hOGM4LWJmMDBjM2ZiZjAxNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyM1QxODA5MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZjJhMTRmYzc0NGI3Yjc4MTI2NzIxMjMxNTgzMTI0MDQ1ZTc4MjUxMGZhMDJiNmYyNjQ4N2U3YzFjNjAzZjdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.oHkYP2RhylMBYai-W1FcVSn7EJmN68EZCSrV6gT-r9k",
+      "https://i.pinimg.com/736x/ec/15/8d/ec158db0d2e5e0426d07b88bb562eb1b.jpg",
     tags: [
       "Docker",
       "Ionic",
