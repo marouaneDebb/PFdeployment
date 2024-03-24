@@ -194,7 +194,7 @@ export const experiences = [
       "django",
       "JavaScript",
     ],
-    doc: "stage  (2).PNG",
+    doc: "https://i.pinimg.com/736x/2d/98/bd/2d98bd0e1dd1d1c7a19b179f729423fb.jpg",
   },
   // {
   //   id: 0,
@@ -289,7 +289,7 @@ export const projects = [
     description:
       "developed a full-stack application for movie enthusiasts, integrating the TMDB API for a vast selection of films. This project seamlessly combines front-end and back-end technologies to provide users with a smooth movie-watching experience.",
     image:
-      "https://private-user-images.githubusercontent.com/128589859/316262818-78479ae6-6157-494c-8dd0-4898399efd25.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyMTk5NDQsIm5iZiI6MTcxMTIxOTY0NCwicGF0aCI6Ii8xMjg1ODk4NTkvMzE2MjYyODE4LTc4NDc5YWU2LTYxNTctNDk0Yy04ZGQwLTQ4OTgzOTllZmQyNS5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyM1QxODQ3MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMDcwMGExNDRmOGI4MmYyOWQ5MDllZTE4MzQxZWIyMWFhNjUzODA1NzgxZTQzY2Y3NGIzMmQ3MTQ1MWVlNTRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QA0XrNT3WNSDzeorXyj5fZ5_blZBuM5NYeE1J5jHAP0",
+      "https://i.pinimg.com/736x/29/14/cf/2914cf0779fd247d0f12b2a58f147e9a.jpg",
     tags: [
       "Docker",
       "Angular",
@@ -308,7 +308,7 @@ export const projects = [
     description:
       "developing an AI-powered platform to process 3D scans from dentists. My task was to clean and color-code teeth groups for clearer interpretation. This experience honed my skills at the intersection of AI, 3D imaging.",
     image:
-      "https://private-user-images.githubusercontent.com/128589859/316243431-c1b652ce-dd76-49fa-b03a-573310358af4.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyMzIwODUsIm5iZiI6MTcxMTIzMTc4NSwicGF0aCI6Ii8xMjg1ODk4NTkvMzE2MjQzNDMxLWMxYjY1MmNlLWRkNzYtNDlmYS1iMDNhLTU3MzMxMDM1OGFmNC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyM1QyMjA5NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZWYzMWE3ZjMzZGYxYWE4MTY1NWUxNTZiYTk0YzhlZWVhZWU0Yjk4M2NjYjNiYWY3ZjRkNmRmZmNjNWU2NzNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.H_6LRyq6-ezhO10T1a0WTzUTq-eoHG66bK3JDcSD9Hw",
+      "https://i.pinimg.com/736x/2d/98/bd/2d98bd0e1dd1d1c7a19b179f729423fb.jpg",
     tags: [
       "react js",
       "three js",
@@ -340,7 +340,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://private-user-images.githubusercontent.com/128589859/316260408-eb6f2815-d7d4-4a3b-99b1-6ac6b76fc6a0.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyMzI0NjcsIm5iZiI6MTcxMTIzMjE2NywicGF0aCI6Ii8xMjg1ODk4NTkvMzE2MjYwNDA4LWViNmYyODE1LWQ3ZDQtNGEzYi05OWIxLTZhYzZiNzZmYzZhMC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyM1QyMjE2MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZGM3OTJiMWY5ZjJiYmNjYTAwNmI4YjlmYjEwMTQ2ZWI5YWIzNzZmNjE5MDQ2NWUxMTQyZTA3ZThjZDlkMmJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.glhHe75k_IwDt6F1uUEtwfIfqmfVFhC5s2OnELqdzwc",
+      "https://i.pinimg.com/736x/ba/01/d2/ba01d24e7b625900abb75b1818c448c4.jpg",
     tags: ["Java", "Mysql", "Javafx"],
     category: "desktop application",
     github: "https://github.com/marouaneDebb/snakeGame-java",
