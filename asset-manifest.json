@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PFdeployment/static/css/main.bf538fe7.css",
+    "main.js": "/PFdeployment/static/js/main.7263d3db.js",
+    "static/media/HeroImage.jpg": "/PFdeployment/static/media/HeroImage.25656d66338c3d40f04b.jpg",
+    "index.html": "/PFdeployment/index.html",
+    "main.bf538fe7.css.map": "/PFdeployment/static/css/main.bf538fe7.css.map",
+    "main.7263d3db.js.map": "/PFdeployment/static/js/main.7263d3db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.7263d3db.js"
+  ]
+}
