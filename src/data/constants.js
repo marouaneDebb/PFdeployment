@@ -194,7 +194,7 @@ export const experiences = [
       "django",
       "JavaScript",
     ],
-    doc: "src/images/stage  (2).PNG",
+    doc: "stage  (2).PNG",
   },
   // {
   //   id: 0,
