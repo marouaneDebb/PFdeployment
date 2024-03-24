@@ -253,7 +253,7 @@ export const projects = [
       {
         name: "Marouane Debbagh",
         img: "https://img.freepik.com/free-vector/illustration-businessman_53876-5856.jpg?t=st=1711218606~exp=1711222206~hmac=eee5990e40b08172d8084e7aa5f9c3022d5e6a723ef1484d21a2ee2d981fa89c&w=740",
-        linkedin: "www.linkedin.com/in/marouane-debbagh-7a6546275",
+        linkedin: "https://www.linkedin.com/in/marouane-debbagh-7a6546275/",
         github: "https://github.com/marouaneDebb",
       },
       {
@@ -304,7 +304,7 @@ export const projects = [
       {
         name: "Marouane Debbagh",
         img: "https://img.freepik.com/free-vector/illustration-businessman_53876-5856.jpg?t=st=1711218606~exp=1711222206~hmac=eee5990e40b08172d8084e7aa5f9c3022d5e6a723ef1484d21a2ee2d981fa89c&w=740",
-        linkedin: "www.linkedin.com/in/marouane-debbagh-7a6546275",
+        linkedin: "https://www.linkedin.com/in/marouane-debbagh-7a6546275/",
         github: "https://github.com/marouaneDebb",
       },
       {
