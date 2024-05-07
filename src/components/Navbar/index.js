@@ -13,7 +13,7 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to='/PFdeployment'>
-          <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
+          <a href='/PFdeployment' style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
             <DiCssdeck size="3rem" /> 
           </a>
         </NavLogo>
